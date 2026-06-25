@@ -16,8 +16,8 @@
         ]
     },
     "rawColors": {
-        "RAW_Color_1": "#00ff00",
-        "RAW_Color_2": "#00ff00"
+        "RAW_Color_1": "#000000",
+        "RAW_Color_2": "#00000"
     },
     "spec": 2
 }
