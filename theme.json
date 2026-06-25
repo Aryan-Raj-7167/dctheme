@@ -8,19 +8,12 @@
         }
     ],
     "semanticColors": {
-        "Semantic_color_1": [
-            "#000000"
-        ],
-        "Semantic_color_2": [
-            "#000000"
-        ],
-        "BACKGROUND_BASE_LOW": [
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#ff0000"
         ]
     },
     "rawColors": {
-        "RAW_Color_1": "#000000",
-        "RAW_Color_2": "#000000"
+        
     },
     "spec": 2
 }
