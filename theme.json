@@ -8,7 +8,7 @@
         }
     ],
     "semanticColors": {
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+        "BACKGROUND_ACCENT": [
             "#ff0000"
         ]
     },
